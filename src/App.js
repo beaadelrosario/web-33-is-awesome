@@ -8,6 +8,7 @@ function App() {
     <main>
       <h1>React is pretty okay!</h1>
       <p>By Bea Del Rosario</p>
+      <p>I love Izzy!</p>
       <h2>
         Deployed with{' '}
         <a
